@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal Clone", "Portal Clone.csproj", "{838A8A3F-956F-7ACC-309F-0F49EDB38A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal Clone.Editor", "Portal Clone.Editor.csproj", "{B4C486E1-6BC6-89F7-AAA1-53B3832053DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{838A8A3F-956F-7ACC-309F-0F49EDB38A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838A8A3F-956F-7ACC-309F-0F49EDB38A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838A8A3F-956F-7ACC-309F-0F49EDB38A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838A8A3F-956F-7ACC-309F-0F49EDB38A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C486E1-6BC6-89F7-AAA1-53B3832053DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C486E1-6BC6-89F7-AAA1-53B3832053DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C486E1-6BC6-89F7-AAA1-53B3832053DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C486E1-6BC6-89F7-AAA1-53B3832053DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
