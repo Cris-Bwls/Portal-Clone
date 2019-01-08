@@ -304,6 +304,7 @@
     <Compile Include="Assets\3rd Party Assets\ShaderForge\Example Assets\Scripts\SoftNormalsToVertexColor.cs" />
     <Compile Include="Assets\Scripts\ClonedFX.cs" />
     <Compile Include="Assets\Scripts\Destructo.cs" />
+    <Compile Include="Assets\Scripts\Held.cs" />
     <Compile Include="Assets\Scripts\MeshVerts.cs" />
     <Compile Include="Assets\Scripts\Player\HoldObject.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
